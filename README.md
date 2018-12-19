@@ -1,26 +1,14 @@
 # PyHackProblemSetA
 PyHack Problem Set A
 
-1 - leap year: 
+1 - Write a function that checks whether the individual digits of a number is odd or even or zero
 
-2 - print sum of N integers:
-When input = 5
-output = 15
-When input = 9
-output = 45
+2 - Find all odd Fibonacci numbers starting from 3
 
-3 - factorial:
-When input = 5
-otuput = 120
-When input = 9
-output = 362880
+3 - Write the a function to find the sum of the individual digits of a number and check whether 
+it's prime or not and whether it's even
 
-4 - sumtorial:
-When input = 5
-output = 15
-When input = 9
-output = 45
-Number 4 is the same as 2. In for, make use of recursion
+4 - Write a function that checks whether some digits is a palindrome or not. Single digits are omitted
 
 5 - print from 1 to N:
 When input = 5
@@ -52,11 +40,13 @@ by 3, it is substituted with fizz; if a number is divisible by 5, it is substitu
 a multiple of 3 AND 5, the number is replaced with "fizz buzz." In essence, it emulates the famous children game
 "fizz buzz
 
-9 - compute the quadratic formular: https://www.purplemath.com/modules/quadform.htm
+9 - Write a function that when given a digit it reverses it
+when input = 1234
+output = 4321
 
-10 - temperature conversion: http://www.weatherwizkids.com/temperature-conversion-chart.htm
+10 - Find the first 1000 factorial numbers that are both multiples of 3 and 6
 
 11 - implement the ceasar ciper: http://practicalcryptography.com/ciphers/caesar-cipher/
 Must have two functions, encryptc(plaintext) and decryptc(encryptedtext)
 
-**be creative** [document the big picture of the idea if you can’t code it]
+12 - Find the sum of the square of the first 20 even numbers and the square of the sum of the first 20 even numbers
