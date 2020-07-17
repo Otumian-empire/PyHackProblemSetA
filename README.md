@@ -3,12 +3,12 @@ PyHack Problem Set A
 
 1 - Write a function that checks whether the individual digits of a number is odd or even or zero
 
-2 - Find all odd Fibonacci numbers starting from 3
+2 - Find all odd Fibonacci numbers starting from 3 to 1000
 
-3 - Write the a function to find the sum of the individual digits of a number and check whether 
-it's prime or not and whether it's even
+3 - Write a function to find the sum of the individual digits of a number and check whether 
+it's prime
 
-4 - Write a function that checks whether some digits is a palindrome or not. Single digits are omitted
+4 - Write a function that checks whether a given number is a palindrome or not. Single digits are omitted
 
 5 - print from 1 to N:
 When input = 5
@@ -44,9 +44,11 @@ a multiple of 3 AND 5, the number is replaced with "fizz buzz." In essence, it e
 when input = 1234
 output = 4321
 
-10 - Find the first 1000 factorial numbers that are both multiples of 3 and 6
+10 - Write a function to find the first 100 factorial numbers that are both multiples of 3 and 6
 
-11 - implement the ceasar ciper: http://practicalcryptography.com/ciphers/caesar-cipher/
+11 - Implement the ceasar ciper: http://practicalcryptography.com/ciphers/caesar-cipher/
 Must have two functions, encryptc(plaintext) and decryptc(encryptedtext)
 
-12 - Find the sum of the square of the first 20 even numbers and the square of the sum of the first 20 even numbers
+12 - Write a function to find:
+  a - the sum of the square of the first 20 even numbers
+  b - the square of the sum of the first 20 even numbers
